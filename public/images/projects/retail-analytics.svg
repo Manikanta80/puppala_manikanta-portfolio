@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 787" fill="none">
+  <defs>
+    <linearGradient id="ra-shell" x1="220" y1="105" x2="1190" y2="690" gradientUnits="userSpaceOnUse"><stop stop-color="#F1EEE8" stop-opacity=".14"/><stop offset=".54" stop-color="#CFD2D0" stop-opacity=".045"/><stop offset="1" stop-color="#C9B789" stop-opacity=".08"/></linearGradient>
+    <linearGradient id="ra-line" x1="457" y1="566" x2="820" y2="460" gradientUnits="userSpaceOnUse"><stop stop-color="#A88A52"/><stop offset=".54" stop-color="#E5D4AE"/><stop offset="1" stop-color="#F7EFDE"/></linearGradient>
+    <radialGradient id="ra-glow"><stop stop-color="#C5B180" stop-opacity=".18"/><stop offset="1" stop-color="#C5B180" stop-opacity="0"/></radialGradient>
+    <filter id="ra-shadow" x="118" y="40" width="1164" height="704" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <ellipse cx="708" cy="398" rx="500" ry="335" fill="url(#ra-glow)"/>
+  <rect x="178" y="92" width="1044" height="580" rx="30" fill="#090B0D" fill-opacity=".25" filter="url(#ra-shadow)"/>
+  <rect x="180" y="86" width="1040" height="580" rx="28" fill="url(#ra-shell)" stroke="#F3F0E8" stroke-opacity=".33"/>
+  <path d="M181 153H1219" stroke="#F3F0E8" stroke-opacity=".15"/>
+  <circle cx="218" cy="120" r="5" fill="#E7D7B5"/><circle cx="236" cy="120" r="5" fill="#F4F1E9" fill-opacity=".4"/><circle cx="254" cy="120" r="5" fill="#F4F1E9" fill-opacity=".22"/>
+  <text x="286" y="126" fill="#F4F2EC" font-family="Inter,Arial,sans-serif" font-size="15" letter-spacing="3">RETAIL SALES ANALYTICS</text>
+  <text x="1160" y="126" text-anchor="end" fill="#D9D4C8" fill-opacity=".58" font-family="Inter,Arial,sans-serif" font-size="12" letter-spacing="2">PYTHON · SQL · MYSQL · FLASK</text>
+  <text x="238" y="210" fill="#E7D7B5" font-family="Inter,Arial,sans-serif" font-size="12" letter-spacing="3">FROM RAW DATA TO USEFUL VIEWS</text>
+  <text x="238" y="250" fill="#F5F3ED" font-family="Inter,Arial,sans-serif" font-size="27" font-weight="500">A clear path through retail data.</text>
+  <rect x="238" y="286" width="353" height="306" rx="18" fill="#111416" fill-opacity=".48" stroke="#F3F0E8" stroke-opacity=".21"/>
+  <rect x="260" y="308" width="309" height="42" rx="9" fill="#F3F0E8" fill-opacity=".06"/><circle cx="278" cy="329" r="3" fill="#E7D7B5"/><circle cx="290" cy="329" r="3" fill="#E7D7B5" fill-opacity=".54"/><circle cx="302" cy="329" r="3" fill="#E7D7B5" fill-opacity=".32"/>
+  <text x="278" y="389" fill="#E7D7B5" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">SELECT</text>
+  <text x="355" y="389" fill="#F3F0E8" fill-opacity=".82" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">retail insights</text>
+  <text x="278" y="426" fill="#E7D7B5" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">FROM</text>
+  <text x="328" y="426" fill="#F3F0E8" fill-opacity=".82" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">MySQL tables</text>
+  <text x="278" y="463" fill="#E7D7B5" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">GROUP BY</text>
+  <text x="382" y="463" fill="#F3F0E8" fill-opacity=".82" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">business dimensions</text>
+  <path d="M278 495H538M278 518H482M278 541H520" stroke="#F3F0E8" stroke-opacity=".13" stroke-width="2" stroke-linecap="round"/>
+  <rect x="626" y="286" width="556" height="306" rx="18" fill="#111416" fill-opacity=".42" stroke="#F3F0E8" stroke-opacity=".21"/>
+  <text x="658" y="327" fill="#F2EEE5" font-family="Inter,Arial,sans-serif" font-size="13" letter-spacing="1.5">ANALYTICS VIEW</text>
+  <text x="1150" y="327" text-anchor="end" fill="#E6DDC9" fill-opacity=".5" font-family="Inter,Arial,sans-serif" font-size="10" letter-spacing="1.2">CONCEPTUAL PREVIEW</text>
+  <path d="M660 515H1148M660 466H1148M660 417H1148M660 368H1148" stroke="#F3F0E8" stroke-opacity=".08"/>
+  <path d="M680 483C735 471 751 421 806 431C859 441 878 389 931 405C985 420 1013 374 1064 388C1093 396 1113 376 1136 360" stroke="url(#ra-line)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M680 483C735 471 751 421 806 431C859 441 878 389 931 405C985 420 1013 374 1064 388C1093 396 1113 376 1136 360V516H680V483Z" fill="url(#ra-line)" fill-opacity=".08"/>
+  <g fill="#15191A" stroke="#E7D7B5" stroke-width="2"><circle cx="806" cy="431" r="6"/><circle cx="931" cy="405" r="6"/><circle cx="1064" cy="388" r="6"/><circle cx="1136" cy="360" r="6"/></g>
+  <path d="M625 438H597M612 432L598 438L612 444" stroke="#E7D7B5" stroke-opacity=".72" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <g font-family="Inter,Arial,sans-serif" font-size="10" letter-spacing="1.2" fill="#E6DDC9" fill-opacity=".52"><text x="657" y="553">PYTHON PROCESSING</text><text x="840" y="553">MYSQL + SQL</text><text x="1007" y="553">FLASK PRESENTATION</text></g>
+  <path d="M238 620H1162" stroke="#F3F0E8" stroke-opacity=".15"/><path d="M238 620H544" stroke="#E7D7B5" stroke-opacity=".8" stroke-width="3" stroke-linecap="round"/>
+</svg>
